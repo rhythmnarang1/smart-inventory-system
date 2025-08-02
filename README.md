@@ -51,7 +51,6 @@ node server.js
 
 ![image](https://github.com/user-attachments/assets/c0fb7d3a-89e1-4bf9-93da-8034c90a0d5a)
 
-
-- Contributors
-Yashav Aggarwal
-Rhythm Narang
+Contributors
+-Yashav Aggarwal
+-Rhythm Narang
